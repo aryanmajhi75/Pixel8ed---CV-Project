@@ -1,0 +1,5 @@
+0 Non-disaster
+1 Cyclone
+2 Flood
+3 Wildfire
+4 Earthquake
