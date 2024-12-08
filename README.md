@@ -60,7 +60,7 @@ This project uses Convolutional Neural Networks (CNN) to detect images resemblin
     streamlit run app.py
     ```
 
-The app should now be running at `http://localhost:8501/`.
+The app should now be running at `http://localhost:8501/` or at `http://192.168.0.106:8501`.
 
 ---
 
